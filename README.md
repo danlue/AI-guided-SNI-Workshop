@@ -1,15 +1,14 @@
 # AI-guided Structural Novelty Index (SNI)
 
-2026 Iwate NLR Biology Workshop and Mini-Symposium, Iwate Biotechnology Research Center, Iwate, Japan, 17–21 November 2026. A one-hour hands-on session on building and using a structural novelty index, with optional hands-on work for participants.
+2026 Iwate NLR Biology Workshop and Mini-Symposium, Iwate Biotechnology Research Center, Iwate, Japan, 17–21 November 2026. A 50-minute hands-on session on building and using a structural novelty index, with optional hands-on work for participants.
 
 | Part | Minutes | What we do | Guide page |
 |---|---|---|---|
 | Set-up (optional, before) | beforehand | Accounts, ChimeraX, data pack, Colab | 0 |
 | **Live modelling** | 0–8 | Model an NRC hexamer in AlphaFold Server, look at it in ChimeraX | 1 |
-| **AI as co-scientist** | 8–18 | How the parameters were defined by people and by AI (slides) | – |
-| **ChimeraX by hand** | 18–35 | From a picture to numbers: confidence, contacts, buried area, geometry | 2 |
-| **Build the pipeline with AI** | 35–52 | Turn metric definitions into a script with a free AI assistant in Colab | 3 |
-| **Validate and discuss** | 52–60 | Heatmap, clustering, discussion | 4 |
+| **ChimeraX by hand** | 8–25 | From a picture to numbers: confidence, contacts, buried area, geometry | 2 |
+| **Build the pipeline with AI** | 25–42 | Turn metric definitions into a script with a free AI assistant in Colab | 3 |
+| **Validate and discuss** | 42–50 | Heatmap, clustering, discussion | 4 |
 
 Delivered by the Kamoun Lab, [The Sainsbury Laboratory](https://www.tsl.ac.uk/).
 
