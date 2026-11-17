@@ -1,6 +1,6 @@
 # AI-guided Structural Novelty Index (SNI)
 
-[DATE] · [VENUE], Japan. A one-hour hands-on session on building and using a structural novelty index, with optional hands-on work for participants.
+2026 Iwate NLR Biology Workshop and Mini-Symposium, Iwate Biotechnology Research Center, Iwate, Japan, 17–21 November 2026. A one-hour hands-on session on building and using a structural novelty index, with optional hands-on work for participants.
 
 | Part | Minutes | What we do | Guide page |
 |---|---|---|---|
@@ -9,11 +9,11 @@
 | **AI as co-scientist** | 8–18 | How the parameters were defined by people and by AI (slides) | – |
 | **ChimeraX by hand** | 18–35 | From a picture to numbers: confidence, contacts, buried area, geometry | 2 |
 | **Build the pipeline with AI** | 35–52 | Turn metric definitions into a script with a free AI assistant in Colab | 3 |
-| **Validate and discuss** | 52–60 | Heatmap, clustering, comparison with the published values | 4 |
+| **Validate and discuss** | 52–60 | Heatmap, clustering, discussion | 4 |
 
 Delivered by the Kamoun Lab, [The Sainsbury Laboratory](https://www.tsl.ac.uk/).
 
-### Website: **https://YOUR-USERNAME.github.io/AI-guided-SNI-Workshop/**
+### Website: **https://danlue.github.io/AI-guided-SNI-Workshop/**
 
 The step-by-step guide for participants (English and Japanese) is on the site: set-up, every command with a copy button and an explanation, the AI prompts, a glossary and the references. Taking part on your own laptop is optional; the instructor goes through every step on the screen.
 
@@ -21,7 +21,7 @@ The step-by-step guide for participants (English and Japanese) is on the site: s
 
 ## Downloads
 
-- **Data pack:** [SNI_workshop_pack.zip](https://github.com/YOUR-USERNAME/AI-guided-SNI-Workshop/releases/latest/download/SNI_workshop_pack.zip) (about 125 MB zipped). Ten pre-computed NRC hexamer models, their confidence files, and reference structures. See [data/README.md](data/README.md).
+- **Data pack:** [SNI_workshop_pack.zip](https://github.com/danlue/AI-guided-SNI-Workshop/releases/latest/download/SNI_workshop_pack.zip) (about 125 MB zipped). Ten pre-computed NRC hexamer models, their confidence files, and reference structures. See [data/README.md](data/README.md).
 - **Colab notebook:** [colab/SNI_workshop_colab_setup.ipynb](colab/SNI_workshop_colab_setup.ipynb). It downloads a small data set (about 80 MB) for the AI part. A ready-to-open link is on the website.
 
 ## What is in this repository
@@ -30,10 +30,9 @@ The step-by-step guide for participants (English and Japanese) is on the site: s
 index.html     the step-by-step guide (the website, served by GitHub Pages)
 colab/         the Colab notebook (data set-up for the AI part)
 data/          a description of the data pack; the files themselves are in the Releases
-slides/        slides (added after the workshop)
 ```
 
-The data files are large, so they are attached to the [Releases](https://github.com/YOUR-USERNAME/AI-guided-SNI-Workshop/releases) and are not stored in the repository itself.
+The data files are large, so they are attached to the [Releases](https://github.com/danlue/AI-guided-SNI-Workshop/releases) and are not stored in the repository itself.
 
 ## The data
 
@@ -45,11 +44,11 @@ The workshop is based on the preprint: Toghani A, Seager B, et al. (2026), bioRx
 
 ## Questions
 
-For anything about this workshop: [CONTACT EMAIL TO BE ADDED].
+For anything about this workshop: daniel.luedke@tsl.ac.uk.
 
 ## Reuse
 
-[TO BE CONFIRMED: licence for the teaching materials (for example CC BY 4.0) and for the code (for example MIT), with the LICENSE files linked here.]
+The teaching materials (guide, text, slides) are licensed under [CC BY 4.0](LICENSE). The code (notebook and scripts) is licensed under the [MIT licence](LICENSE-CODE). The AlphaFold models keep the AlphaFold Server terms (non-commercial use).
 
 ---
 
