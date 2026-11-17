@@ -20,7 +20,7 @@ The step-by-step guide for participants (English and Japanese) is on the site: s
 
 ## Downloads
 
-- **Data pack:** [SNI_workshop_pack.zip](https://github.com/danlue/AI-guided-SNI-Workshop/releases/latest/download/SNI_workshop_pack.zip) (about 125 MB zipped). Ten pre-computed NRC hexamer models, their confidence files, and reference structures. See [data/README.md](data/README.md).
+- **Data pack:** [SNI_workshop_pack.zip](https://github.com/danlue/AI-guided-SNI-Workshop/releases/download/v0.1/SNI_workshop_pack.zip) (about 119 MB zipped). Ten pre-computed NRC hexamer models, their confidence files, and reference structures. See [data/README.md](data/README.md).
 - **Colab notebook:** [colab/SNI_workshop_colab_setup.ipynb](colab/SNI_workshop_colab_setup.ipynb). It downloads a small data set (about 80 MB) for the AI part. A ready-to-open link is on the website.
 
 ## What is in this repository
